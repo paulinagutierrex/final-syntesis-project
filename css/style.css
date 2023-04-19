@@ -4,12 +4,11 @@ html {
 
 body {
   margin: 0;
-  background-image: url("agujeronegro.jpg");
+  background-image: url("../imagenes/estrellas1.jpeg");
 }
 
 header h1 {
-  background-color: rgb(61, 47, 75);
-  color: rgb(233, 233, 193);
+  color: white;
   font-family: monospace;
   padding: 3rem 2rem;
   font-size: 3rem;
