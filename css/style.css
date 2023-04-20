@@ -8,9 +8,9 @@ body {
 }
 
 header h1 {
-  color: white;
   background-color: black;
-font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding: 3rem 2rem;
   font-size: 3rem;
   text-align: center;
@@ -125,20 +125,20 @@ footer a:hover {
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #ddd;
+  background-color: salmon;
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #ccc;
+  background-color: lightsalmon;
 }
 
 /* Style the tab content */
 .tabcontent {
   display: none;
   padding: 0.25rem 0;
-  border: 1px solid #ccc;
-  background-color: #fff;
+  border: 30px brown;
+  background-color: lightyellow;
   border-top: none;
   border-radius: 0.5rem;
   width: 800px;
@@ -156,6 +156,7 @@ footer a:hover {
   margin-left: auto;
   margin-right: auto;
   padding: 1rem 1rem;
+  filter: drop-shadow(grey 10px 5px);
 }
 #hi {
   display: block;
@@ -181,10 +182,6 @@ footer a:hover {
   display: block;
   filter: grayscale(10%) drop-shadow(8px 8px purple);
 }
-#galileo{
-  margin-left: 300px;
-  margin-right: 300px;
-}
 
 #otrasmagnitudes {
   display: block;
@@ -193,15 +190,16 @@ footer a:hover {
   display: block;
   filter: grayscale(15%) drop-shadow(7px 7px darkblue);
 }
-#AlbertEinstein{
+#einsteinylorentz {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  filter: drop-shadow(5px 5px grey);
+  margin-left: 200px;
+  margin-right: 200px;
+  display: block;
+  filter: grayscale(15%) drop-shadow(7px 7px darkblue);
 }
-#lorentzyeinstein {
+#timetra {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  filter: drop-shadow(5px 5px grey);
+  display: block;
 }
