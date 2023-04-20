@@ -21,6 +21,7 @@ h2 {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+  font-family: sans-serif;
 }
 
 h3 {
@@ -28,6 +29,7 @@ h3 {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+  font-family: monospace;
 }
 
 h4 {
@@ -35,6 +37,7 @@ h4 {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
+
 }
 
 h5 {
