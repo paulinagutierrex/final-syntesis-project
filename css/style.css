@@ -173,3 +173,18 @@ footer a:hover {
   margin-left: 180px;
   padding: 1rem 1rem;
 }
+#coordinado {
+  display: block;
+  margin-left: 300px;
+  margin-right: 300px;
+  display: block;
+  filter: grayscale(10%) drop-shadow(8px 8px purple);
+}
+
+#otrasmagnitudes {
+  display: block;
+  margin-left: 300px;
+  margin-right: 300px;
+  display: block;
+  filter: grayscale(15%) drop-shadow(7px 7px darkblue);
+}
