@@ -4,11 +4,11 @@ html {
 
 body {
   margin: 0;
-  background-image: url("../imagenes/viajespacial.jpeg");
+  background-image: url("../imagenes/estrellas.gif");
 }
 
 header h1 {
-  color: white;
+  color:black;
   
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   padding: 3rem 2rem;
