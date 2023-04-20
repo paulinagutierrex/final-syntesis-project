@@ -142,3 +142,25 @@ footer a:hover {
 .tabcontent {
   animation: fadeEffect 1s; /* Fading effect takes 1 second */
 }
+#espaciotiempo {
+  float: left;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1rem 1rem;
+}
+#hi {
+  filter: drop-shadow(grey 5px 5px);
+  margin-left: 180px;
+  margin right: 100px;
+}
+#lorentz {
+filter: drop-shadow(5px 5px pink)
+margin-left: 180px;
+margin-right: 180px;
+}
+#marcosdereferencia{
+  filter: drop-shadow(5px 5px lightblue)
+margin-left: 180px;
+margin-right: 180px;
+}
+
