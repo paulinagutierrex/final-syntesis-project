@@ -30,6 +30,7 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   font-family: monospace;
+  filter: drop-shadow(rgb(255, 162, 243) 5px 5px);
 }
 
 h4 {
@@ -37,7 +38,8 @@ h4 {
   width: 70%;
   margin-left: auto;
   margin-right: auto;
-
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  filter: drop-shadow( rgb(145, 145, 255) 5px 5px);
 }
 
 h5 {
@@ -155,19 +157,19 @@ footer a:hover {
   padding: 1rem 1rem;
 }
 #hi {
+  display: block;
   filter: drop-shadow(grey 5px 5px);
   margin-left: 180px;
   margin right: 100px;
 }
 #lorentz {
-filter: drop-shadow(5px 5px pink)
-margin-left: 180px;
-margin-right: 180px;
+  display: block;
+  filter: drop-shadow (green 10px 10px);
+  margin-left: 180px;
+  padding: 1rem 1rem;
 }
-#marcosdereferencia{
-filter: drop-shadow(5px 5px lightblue)
-margin-left: 180px;
-margin-right: 180px;
+#marcosdereferencia {
+  filter: drop-shadow (green 10px 10px);
+  margin-left: 180px;
+  padding: 1rem 1rem;
 }
-
-
